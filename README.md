@@ -1,5 +1,5 @@
 
-# 📂 Smart File Organizer
+# Smart File Organizer
 
 A simple and practical Python tool that automatically organizes files in a folder based on their type.
 
